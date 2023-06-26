@@ -2,7 +2,7 @@
 Hands-On Lab: Data Engineering with Snowpark
 Script:       01_setup_snowflake.sql
 Author:       Jeremiah Hansen
-Last Updated: 1/1/2023
+Last Updated: 1/1/2023 v2
 -----------------------------------------------------------------------------*/
 
 
